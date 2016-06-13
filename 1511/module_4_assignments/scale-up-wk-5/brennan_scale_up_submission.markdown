@@ -40,7 +40,7 @@ Initially I was excited to get to do my own thing since it's kind of what I want
 
 ### Discuss: your experience doing daily stand ups
 
-I liked stand ups way more than I thought I would. I worked on a team that did, what I now know were, terrible stand ups. The 30-ish minutes let me feel like I was still a part of the team, field questions about what I was doing, and clarify any questions I might have been asked the day before that I wanted to know the answer to.
+I liked stand ups way more than I thought I would. I worked on a team that did, what I now know were, terrible stand ups. The 30ish minutes let me feel like I was still a part of the team, field questions about what I was doing, and clarify any questions I might have been asked the day before that I wanted to know the answer to.
 
 Stand ups also act as a gentle push to keep you motivated. More than once I would get frustrated and want to stop and think, "What have I got to show for stand up tomorrow?" If the answer was unacceptable I just had to keep going.
 
